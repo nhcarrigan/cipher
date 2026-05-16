@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated markdown data files
+markdown/*.md
+
+# Generated site files
+data.json
+site.html
+
+# Cron logs
+*.log
